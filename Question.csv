@@ -1,0 +1,51 @@
+Category,Question,Option1,Option2,Option3,Option4,CorrectAnswer
+Science,What is the chemical symbol for Hydrogen?,H,He,Li,Be,1
+Science,What is the speed of light?,299792 km/s,150000 km/s,100000 km/s,500000 km/s,1
+Science,Who developed the theory of relativity?,Albert Einstein,Isaac Newton,Galileo Galilei,Nikola Tesla,1
+Science,What is the human body's largest organ?,Skin,Heart,Liver,Brain,1
+Science,What is the powerhouse of the cell?,Mitochondria,Nucleus,Ribosome,Endoplasmic Reticulum,1
+Science,What is the atomic number of carbon?,6,12,8,14,1
+Science,What is the most common gas in the Earth's atmosphere?,Nitrogen,Oxygen,Carbon Dioxide,Argon,1
+Science,What is the chemical formula for water?,H2O,H2O2,HO2,OH2,1
+Science,What is the first element on the periodic table?,Hydrogen,Helium,Lithium,Beryllium,1
+Science,What is the freezing point of water in Fahrenheit?,32,0,100,212,1
+General,Who wrote '1984'?,George Orwell,Mark Twain,Ernest Hemingway,J.K. Rowling,1
+General,What is the capital of France?,Paris,London,Berlin,Madrid,1
+General,Who painted the Mona Lisa?,Leonardo da Vinci,Vincent van Gogh,Pablo Picasso,Michelangelo,1
+General,What is the largest ocean on Earth?,Pacific Ocean,Atlantic Ocean,Indian Ocean,Arctic Ocean,1
+General,What is the tallest mountain on Earth?,Mount Everest,K2,Mount Kilimanjaro,Mount McKinley,1
+General,Who is the author of the Harry Potter series?,J.K. Rowling,George R.R. Martin,Stephen King,Tolkien,1
+General,What is the longest river in the world?,Nile River,Amazon River,Yangtze River,Mississippi River,1
+General,Who was the first person to walk on the moon?,Neil Armstrong,Buzz Aldrin,Yuri Gagarin,John Glenn,1
+General,What is the largest country by land area?,Russia,Canada,China,United States,1
+General,What is the smallest planet in our solar system?,Mercury,Venus,Mars,Pluto,1
+Animal,What is the largest land animal?,Elephant,Rhino,Hippopotamus,Giraffe,1
+Animal,What is the fastest land animal?,Cheetah,Lion,Tiger,Gazelle,1
+Animal,What is the largest bird?,Ostrich,Eagle,Albatross,Penguin,1
+Animal,What is the smallest breed of dog?,Chihuahua,Pomeranian,Yorkshire Terrier,Dachshund,1
+Animal,What is the largest breed of dog?,Great Dane,St. Bernard,Mastiff,Newfoundland,1
+Animal,What is the tallest breed of horse?,Shire Horse,Clydesdale,Percheron,Friesian,1
+Animal,What is the smallest breed of cat?,Singapura,Manx,Siamese,Maine Coon,1
+Animal,What is the largest breed of cat?,Maine Coon,Siamese,Manx,Singapura,1
+Animal,What is the largest species of shark?,Whale Shark,Great White Shark,Tiger Shark,Hammerhead Shark,1
+Animal,What is the smallest species of bird?,Bee Hummingbird,Sparrow,Canary,Parakeet,1
+Food,What is sushi traditionally wrapped in?,Seaweed,Rice,Paper,Leaf,1
+Food,What is the main ingredient in hummus?,Chickpeas,Tahini,Garlic,Lemon,1
+Food,What is the main ingredient in guacamole?,Avocado,Tomato,Onion,Lime,1
+Food,What is the main ingredient in ratatouille?,Eggplant,Zucchini,Tomato,Pepper,1
+Food,What is the main ingredient in paella?,Rice,Chicken,Seafood,Vegetables,1
+Food,What is the main ingredient in gazpacho?,Tomato,Cucumber,Pepper,Onion,1
+Food,What is the main ingredient in falafel?,Chickpeas,Fava Beans,Lentils,Peas,1
+Food,What is the main ingredient in borscht?,Beetroot,Cabbage,Potato,Carrot,1
+Food,What is the main ingredient in moussaka?,Eggplant,Potato,Beef,Lamb,1
+Food,What is the main ingredient in haggis?,Sheep's Pluck (heart, liver, and lungs),Beef,Lamb,Pork,1
+History,Who discovered America?,Christopher Columbus,Albert Einstein,Isaac Newton,Thomas Edison,1
+History,Who was the first president of the United States?,George Washington,Abraham Lincoln,Thomas Jefferson,John Adams,1
+History,Who wrote the Declaration of Independence?,Thomas Jefferson,George Washington,John Adams,Benjamin Franklin,1
+History,Who was the longest reigning British monarch?,Queen Elizabeth II,Queen Victoria,King George III,King Louis XIV,1
+History,What year did World War II end?,1945,1944,1946,1947,1
+History,What year did the Titanic sink?,1912,1911,1913,1914,1
+History,Who was the first woman to fly solo across the Atlantic?,Amelia Earhart,Harriet Quimby,Bessie Coleman,Eileen Collins,1
+History,What year was the Declaration of Independence signed?,1776,1775,1777,1778,1
+History,Who was the Roman god of war?,Mars,Jupiter,Neptune,Pluto,1
+History,What was the name of the last queen of France?,Marie Antoinette,Anne Boleyn,Victoria,Elizabeth,1

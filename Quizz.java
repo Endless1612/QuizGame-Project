@@ -75,6 +75,9 @@ class Quiz {
     public void startQuiz() {
         while (true) {
             Collections.shuffle(questions);
+            Cut();
+            System.out.println("Welcome to " + this.name + "");
+            Cut();
             Scanner scanner = new Scanner(System.in);
             System.out.print("Enter your name: ");
             playerName = scanner.nextLine();
